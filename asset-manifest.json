@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/Task_management/static/js/main.8bc4b87e.js",
-    "index.html": "/Task_management/index.html",
-    "main.8bc4b87e.js.map": "/Task_management/static/js/main.8bc4b87e.js.map"
+    "main.js": "/taskmate-app/static/js/main.8bc4b87e.js",
+    "index.html": "/taskmate-app/index.html",
+    "main.8bc4b87e.js.map": "/taskmate-app/static/js/main.8bc4b87e.js.map"
   },
   "entrypoints": [
     "static/js/main.8bc4b87e.js"
